@@ -1,0 +1,19 @@
+This is me taking the 10 days of git and github challenge.
+
+Day 1 is about basic unix commands.
+
+Neofetch: data about the device 
+Pwd: Check the current directory:
+ls: List directories and files in the current directory
+mkdir: Make (create) directories
+nano: Create files
+cd: Change directory
+mv: Rename the file/directory, move the file/directory
+cp: Copy files or directories
+nano: Write in to the file
+cat: Read the file
+rmdir: delete directory
+rm: delete file
+rm -r: deletes anything (better to use this command)
+
+
